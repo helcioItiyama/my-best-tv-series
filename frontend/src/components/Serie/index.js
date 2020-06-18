@@ -6,7 +6,6 @@ import Names from '../Names';
 import Votes from '../Votes';
 import Percentages from '../Percentages';
 import Popularity from '../Popularity';
-import { formatPercentage } from '../../utils/format';
 
 import {Container} from './styles';
 
